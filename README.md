@@ -1,1 +1,2 @@
-- Mono repo for multiple engineering topics
+- URL Shortner using DJango
+- Deployment using kubernetes
