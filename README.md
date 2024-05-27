@@ -1,2 +1,1 @@
 - URL Shortner using DJango
-- Deployment using kubernetes
